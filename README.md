@@ -33,7 +33,10 @@ http://localhost:8080/pilotes/api/swagger-ui/index.html
 
 ## H2 Console for local
 http://localhost:8080/pilotes/api/h2-console/login.do
+
 jdbc url : jdbc:h2:mem:pilotesdb
+
 user : sa
+
 ---
 
